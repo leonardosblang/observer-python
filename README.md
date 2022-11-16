@@ -1,2 +1,2 @@
 # observer-python
-Observer Exaple in Python
+Observer Example in Python
